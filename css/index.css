@@ -440,13 +440,13 @@
 .big-ad-left-bottom {
   width: 194px;
   height: 242px;
-  background-image: url(/顶部导航栏/images/编组.png);
+  background-image: url(../images/编组.png);
   margin-top: 30.01px;
 }
 .big-ad-ads1 {
   width: 340px;
   height: 432px;
-  background-image: url(/顶部导航栏/images/appliance_banner07.png);
+  background-image: url(../images/appliance_banner07.png);
 }
 .big-ad-ads-shangxia1 {
   display: flex;
@@ -457,18 +457,18 @@
   width: 206px;
   height: 215px;
   border-bottom: 1px solid #e2e2e2;
-  background-image: url(/顶部导航栏/images/微波炉.png);
+  background-image: url(../images/微波炉.png);
 }
 .big-ad-ads-shangxia1 .big-ad-ads3 {
   margin-top: 1px;
   width: 206px;
   height: 215px;
-  background-image: url(/顶部导航栏/images/空气炸锅.png);
+  background-image: url(../images/空气炸锅.png);
 }
 .big-ad-ads4 {
   width: 206px;
   height: 431px;
-  background-image: url(/顶部导航栏/images/冰箱.png);
+  background-image: url(../images/冰箱.png);
   border-left: 1px solid #e2e2e2;
   border-right: 1px solid #e2e2e2;
 }
@@ -482,13 +482,13 @@
   height: 215px;
   border-bottom: 1px solid #e2e2e2;
 
-  background-image: url(/顶部导航栏/images/电饭煲.png);
+  background-image: url(../images/电饭煲.png);
 }
 .big-ad-ads-shangxia2 .big-ad-ads6 {
   margin-top: 1px;
   width: 206px;
   height: 215px;
-  background-image: url(/顶部导航栏/images/电饭煲2.png);
+  background-image: url(../images/电饭煲2.png);
 }
 
 /*#endregion大图广告栏 */
